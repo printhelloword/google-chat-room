@@ -14,6 +14,13 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
     // firebase config
+    apiKey: "AIzaSyDHTpww3Mrcm67276vJ6OWpweIoBZXADOo",
+    authDomain: "chat-be496.firebaseapp.com",
+    projectId: "chat-be496",
+    storageBucket: "chat-be496.appspot.com",
+    databaseURL: "https://chat-be496.firebaseio.com",
+    messagingSenderId: "39993303527",
+    appId: "1:39993303527:web:76dc769dfa0e2659425d42",
 })
 
 
